@@ -1,0 +1,10 @@
+{
+  "name": "cajex-evidence-canary",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Canary for cajeX Live Evidence. These versions are deliberately old so Dependabot raises real alerts. Nothing here is built or run.",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "1.2.0"
+  }
+}
